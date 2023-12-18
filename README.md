@@ -10,7 +10,7 @@
 <h2>🔧 Technologies & Tools</h2>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
                                                                                                                                             <h2 align="center">🌟 Highlights</h2>
- <h4 align="left">Academic Projects</h4>
+ <h3 align="left">Academic Projects</h3>
 <ul>
   <li><b>Crowd Sourced Mapping:</b> Implemented statistical learning techniques for a land cover classification model. Used feature engineering, hyperparameter tuning, and advanced machine learning algorithms.</li>
   <li><b>Personality Prediction Test:</b> Employed statistical techniques for personality assessment. Conducted data manipulation and dimension reduction, using Tableau for interactive dashboard creation.</li>
@@ -18,7 +18,7 @@
   <li><b>Digits Recognition System:</b> Developed a Convolutional Neural Network model for Handwritten Digit Recognition, utilizing TensorFlow for enhanced accuracy.</li>
 </ul>
 
-<h4 align="left">Certificates and Extracurricular Activities</h4>
+<h3 align="left">Certificates and Extracurricular Activities</h3>
 <ul>
   <li>Special Recognition in Data Mining Hackathon (US Offense Types)</li>
   <li>Office Bearer and Poster Designer, Robotics Club, VIT University</li>
