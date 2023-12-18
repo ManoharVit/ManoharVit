@@ -18,15 +18,9 @@
   <li><b>Digits Recognition System:</b> Developed a Convolutional Neural Network model for Handwritten Digit Recognition, utilizing TensorFlow for enhanced accuracy.</li>
 </ul>
 
-<h4 align="left">Professional Experience</h4>
-<ul>
-  <li><b>Python Web Developer Intern at Shiash Info Solutions:</b> Developed a Smart Grid web page, enhanced consumer engagement by 30%, and improved system efficiency by 40%.</li>
-</ul>
-
 <h4 align="left">Certificates and Extracurricular Activities</h4>
 <ul>
-  <li>Business Analytics with Excel - Simplilearn</li>
-  <li>Special Recognition in Data Mining Hackathon (US Offense Type)</li>
+  <li>Special Recognition in Data Mining Hackathon (US Offense Types)</li>
   <li>Office Bearer and Poster Designer, Robotics Club, VIT University</li>
   <li>Certificate of Merit, VIT-AP Engineering Clinics Projects</li>
 </ul>
