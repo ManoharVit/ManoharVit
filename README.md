@@ -1,36 +1,52 @@
-## 👨‍💻 About Me
+# Manohar
 
-I am a **Data Analytical Engineer** graduate with a **Master's degree from Northeastern University** and a strong foundation in **Programming**. My expertise lies in **Data Wrangling**, **Statistical Modeling**, **Machine Learning**, and **Data Visualization**, utilizing tools such as **Python**, **DVC**, **Airflow**, **GCP**, and **Tableau**. 
+**Machine Learning · NLP · MLOps · Data Engineering**
 
-With a proven ability to transform complex datasets into actionable insights, I thrive in cross-functional collaborations and delivering data-driven solutions that align with strategic organizational goals. At **Omdena AI**, I served as a **Junior ML Engineer**, deploying **RESTful APIs** for predictive analytics, integrating **Hugging Face**, and addressing data quality issues to drive impactful business decisions. As a **Data Science Researcher** at **Massachusetts General Hospital**, I implemented **NLP techniques** and **deep learning models**, publishing results in collaboration with Harvard. At **Shiash Info Solutions**, I worked as a **Data Analyst**, executing **ETL pipelines** for alerts, logs, and KPI-based dashboards.
+I develop Python applications, machine learning workflows, and data pipelines. My projects span transformer-based NLP, computer vision, cloud MLOps, and backend APIs.
 
-### 🌐 Discover More: [**Visit My Portfolio**](https://manoharvit.github.io/Manohar.github.io/)
+I hold a master's degree from **Northeastern University**. My background includes ML engineering at **Omdena AI**, data science research at **Massachusetts General Hospital**, and data analytics at **Shiash Info Solutions**.
 
----
-## 🔧 Knowledge Glimpse
+[Portfolio](https://manoharvit.github.io/Manohar.github.io/) · [LinkedIn](https://www.linkedin.com/in/manohar511/) · [Email](mailto:vemula.gi@northeastern.edu)
 
-| **Category**              | **Details**                                                                                           |
-|---------------------------|-------------------------------------------------------------------------------------------------------|
-| **💻 Programming Languages** | <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30"/> |
-| **🔨 Data Engineering Tools**| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/1920px-Elasticsearch_logo.svg.png" alt="Elasticsearch" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Snowflake_Logo.svg" alt="Snowflake" width="30"/> |
-| **📊 Data Visualization Tools** | <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" width="30"/> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white" alt="Power BI" width="30"/> <img src="https://www.flourish.studio/logo.svg" alt="Flourish" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Datawrapper_Logo.png" alt="Data Wrapper" width="30"/> |
-| **🔧 Operation Tools**   | <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" alt="Jenkins" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original-wordmark.svg" alt="Terraform" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0c/MLflow_logo.svg" alt="MLflow" width="30"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/1/13/Kubeflow_Logo_2-color_Positive.png" alt="Kubeflow" width="30"/> <img src="https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow/img/logos/wordmark_1.png" alt="Airflow" width="30"/> <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="Hugging Face" width="30"/> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure ML" width="30"/> <img src="https://d1.awsstatic.com/Digital%20Marketing/MLCompetency/Badge/SageMaker_CompetencyBadge.b8d99f601c2f9bd163c24694fefc8b779d3a7a8d.png" alt="SageMaker" width="30"/> |
-| **📂 Expertise**             | <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/ETL_Icon.png" alt="ETL" width="30"/> <img src="https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white" alt="Git" width="30"/> <img src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Office" width="30"/> |
-| **🤝 Soft Skills**           | 🗣️ Storytelling, 🤝 Interpersonal Skills, 🧩 Problem-Solving, 🧠 Strategic Thinking                  |
+## Selected projects
 
+| Project | Focus | Technologies |
+|---|---|---|
+| [Job Copilot](https://github.com/ManoharVit/job-copilot) | Local application tracker with status history, a browser extension, and experimental AI writing features. | FastAPI, SQLAlchemy, SQLite, Alembic, Gemini |
+| [Stock CloseCast](https://github.com/ManoharVit/Stock-CloseCast) | Team MLOps project covering financial data pipelines, model training, deployment, and drift analysis. | Airflow, GCP Vertex AI, DVC, Docker, GitHub Actions |
+| [Financial News Summarization](https://github.com/ManoharVit/Financial-News-Summarization) | Financial-text summarization and sentiment classification using fine-tuned transformers, with ROUGE and classification evaluation. | PEGASUS, BERT, Python |
+| [MoviETL](https://github.com/ManoharVit/MoviETL-Data-Pipeline) | Movie analytics pipeline with staging loads, SQL upserts, and data quality checks. | Airflow, Spark, AWS Redshift, Docker |
+| [Job Engine](https://github.com/ManoharVit/job-engine) | Job ingestion, deduplication, explainable matching, and document drafts with approval states and audit logs. | Python, FastAPI, SQLAlchemy, Pydantic, pytest |
+| [Skin Lesion Classification](https://github.com/ManoharVit/Clinical-Skin-Lesion-Diagnosis) | HAM10000 image classification with CNN and VGG-inspired models, exploring class imbalance. | Python, TensorFlow |
 
----
+## Technical focus
 
-## 📜 Certifications & Achievements
+| Area | Tools and methods |
+|---|---|
+| Programming | Python, SQL, R |
+| Backend engineering | FastAPI, REST APIs, SQLAlchemy, Alembic, Pydantic, pytest |
+| Machine learning and NLP | TensorFlow, Hugging Face, transformer fine-tuning, classification, summarization |
+| Data engineering and MLOps | Airflow, Spark, Docker, DVC, GitHub Actions |
+| Analytics | Statistical modeling, data visualization, Tableau |
 
-- 🏅 **Data Mining Hackathon (US Offense Types):** Special Recognition
-- 🏆 **Machine Learning (MLS-C01):** AWS Certified
-- 🏅 **Certificate of Merit:** VIT-AP Engineering Clinics Projects
-- 🛠️ **Robotics Club:** Office Bearer and Poster Designer, VIT University
+### Cloud project experience
 
----
+- **GCP:** Vertex AI and Cloud Build for model workflows in [Stock CloseCast](https://github.com/ManoharVit/Stock-CloseCast).
+- **AWS:** Redshift for data warehousing in [MoviETL](https://github.com/ManoharVit/MoviETL-Data-Pipeline).
+- **Azure:** Data Factory, Databricks, Synapse Analytics, and Storage for the [Olympics data engineering project](https://github.com/ManoharVit/Olympiads-AzureDE).
 
-## ✉️ Contact Me
+## Current work
 
-- 📧 Email: [Mail me](mailto:vemula.gi@northeastern.edu)
-- 🔗 [LinkedIn](https://linkedin.com/in/manohar511/)
+Developing **ResearchOps**, a document question-answering project with LangGraph, Qdrant, and Redis/Celery. The focus is learning retrieval workflows, background ingestion, source citations, and evaluation.
+
+## Certifications and recognition
+
+- AWS Certified Machine Learning – Specialty (MLS-C01)
+- Data Mining Hackathon: special recognition for work on US offense types
+- VIT-AP Engineering Clinics: Certificate of Merit
+
+## Connect
+
+- **Portfolio:** [manoharvit.github.io/Manohar.github.io](https://manoharvit.github.io/Manohar.github.io/)
+- **LinkedIn:** [linkedin.com/in/manohar511](https://www.linkedin.com/in/manohar511/)
+- **Email:** [vemula.gi@northeastern.edu](mailto:vemula.gi@northeastern.edu)
